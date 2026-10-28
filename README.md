@@ -2,11 +2,14 @@
 
 Pick a season, a nine-color palette and the occasions you dress for. The app builds a ~21-piece capsule wardrobe for that season and generates outfits for each occasion, using only the pieces in the capsule.
 
-![Outfit viewer: one outfit at a time, with Shuffle and Day, Night and occasion filters](docs/screenshots/03-outfits.png)
+### 1. Choose your season, palette and occasions
+![Choose screen with the Autumn Heritage palette applied](docs/screenshots/01-choose.png)
 
-| Choose your palette and occasions | Your capsule |
-| --- | --- |
-| ![Choose screen with the Autumn Heritage palette applied](docs/screenshots/01-choose.png) | ![Capsule screen with palette, tops and sweaters](docs/screenshots/02-capsule.png) |
+### 2. Get your capsule
+![Capsule screen with palette, tops and sweaters](docs/screenshots/02-capsule.png)
+
+### 3. Browse your outfits
+![Outfit viewer: one outfit at a time, with Shuffle and Day, Night and occasion filters](docs/screenshots/03-outfits.png)
 
 ## Features
 
